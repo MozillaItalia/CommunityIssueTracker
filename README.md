@@ -1,4 +1,4 @@
-# Regole generali: Community Issue Track
+# Regole generali: Community Issue Tracker
 
 Ogni persona che voglia utilizzare questo strumento deve creare un progetto con il proprio nominativo (ad esempio `Edoardo Activities`):
 * All'interno del proprio progetto è possibile creare tutte le colonne necessarie. Possono essere inserite attività da assegnare alla persona titolare del progetto o, se necessario, soggetti esterni.
